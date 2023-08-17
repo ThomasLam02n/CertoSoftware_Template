@@ -96,7 +96,7 @@ body {
     z-index: 101;
     background-color: var(--primary-text-color);
     padding: 1rem;
-    transform: translateX(+100%);
+    transform: translatey(+100%);
     transition: transform linear 0.2s, fadeIn linear 0.2s;
 }
 
